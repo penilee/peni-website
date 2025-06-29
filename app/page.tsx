@@ -6,7 +6,7 @@ export default function Home() {
       <main className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
         {/* Header Section */}
         <header className="text-center py-16 px-8">
-          <h1 className="text-6xl font-bold text-gray-800 mb-4">未來智匯實驗室</h1>
+          <h1 className="text-6xl font-bold text-gray-800 mb-4">沛沛的 AI 世界</h1>
           <p className="text-2xl text-gray-600 max-w-2xl mx-auto">
             探索人工智慧的無限可能，創造未來的技術解決方案
           </p>
